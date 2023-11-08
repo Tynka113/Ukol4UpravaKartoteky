@@ -36,7 +36,7 @@ while(!jeKonec)
             zadaneKnihy.Nazev = Console.ReadLine();
             Console.Write("Zadej příjmení autora: ");
             zadaneKnihy.AutorPrijmeni = Console.ReadLine();
-            Console.Write("Zadej rok jméno autora: ");
+            Console.Write("Zadej jméno autora: ");
             zadaneKnihy.AutorJmeno = Console.ReadLine();
             Console.Write("Zadej rok vydání: ");
             zadaneKnihy.RokVydani = Console.ReadLine();
